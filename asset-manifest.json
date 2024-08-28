@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/coptic_dictionary_json-importer/static/css/main.f855e6bc.css",
-    "main.js": "/coptic_dictionary_json-importer/static/js/main.59f8a275.js",
-    "static/js/453.f315e6d5.chunk.js": "/coptic_dictionary_json-importer/static/js/453.f315e6d5.chunk.js",
-    "static/media/logo.svg": "/coptic_dictionary_json-importer/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/coptic_dictionary_json-importer/index.html",
-    "main.f855e6bc.css.map": "/coptic_dictionary_json-importer/static/css/main.f855e6bc.css.map",
-    "main.59f8a275.js.map": "/coptic_dictionary_json-importer/static/js/main.59f8a275.js.map",
-    "453.f315e6d5.chunk.js.map": "/coptic_dictionary_json-importer/static/js/453.f315e6d5.chunk.js.map"
+    "main.css": "/coptic_dictionary_json_importer/static/css/main.f855e6bc.css",
+    "main.js": "/coptic_dictionary_json_importer/static/js/main.3c29d78a.js",
+    "static/js/453.f315e6d5.chunk.js": "/coptic_dictionary_json_importer/static/js/453.f315e6d5.chunk.js",
+    "static/media/logo.svg": "/coptic_dictionary_json_importer/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/coptic_dictionary_json_importer/index.html",
+    "main.f855e6bc.css.map": "/coptic_dictionary_json_importer/static/css/main.f855e6bc.css.map",
+    "main.3c29d78a.js.map": "/coptic_dictionary_json_importer/static/js/main.3c29d78a.js.map",
+    "453.f315e6d5.chunk.js.map": "/coptic_dictionary_json_importer/static/js/453.f315e6d5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.59f8a275.js"
+    "static/js/main.3c29d78a.js"
   ]
 }
