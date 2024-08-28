@@ -28,7 +28,7 @@ function getPronunciation(string) {
 }
 
 function buildJSON({ word, def, pron }) {
-  var returnString = "{\n\tword: " + word + "\n\tdefinition: " + def + "\n\tpronunciation: " + pron + "\n}"
+  var returnString = "{\n\t\"word\": \"" + word + "\",\n\t\"definition\": \"" + def + "\",\n\t\"pronunciation\": \"" + pron + "\"\n}"
   return returnString
 }
 
@@ -71,7 +71,7 @@ function App() {
             buildJSON({ word, def, pron })
           } sx={{ width: "100%" }}
             readOnly={true}></Textarea>
-          <Button id="copy" onClick={(e) => { navigator.clipboard.writeText(buildJSON({ word, def })); e.target.innerHTML = "Copied!" }}>Copy</Button>
+          <Button id="copy" onClick={(e) => { navigator.clipboard.writeText(buildJSON({ word, def, pron })); e.target.innerHTML = "Copied!" }}>Copy</Button>
         </Sheet>
       </Sheet>
     </Sheet >
